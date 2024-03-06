@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there 👋 Srinivas reddy
 
+I'm a DevOps CI/CD engineer, the guy who does everything.
 <!--
 **solipuram/solipuram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +14,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+I'm a DevOps engineer, the guy who does everything.
 -->
